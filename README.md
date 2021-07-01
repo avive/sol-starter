@@ -1,7 +1,9 @@
 # sol-starter
 
-A basic modern truffle based solidity dev project with open-zeppelin integration.
-Will save you 2 hours of your life when you want to get started with smart contract dev.
+A basic modern truffle-based solidity smart contracts dev project with open-zeppelin integration.
+
+Will save you 2 hours of your life when you want to get started with smart contracts dev.
+
 You are welcome.
 
 ## Setup 
