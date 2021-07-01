@@ -1,6 +1,6 @@
 # sol-starter
 
-A basic modern truffle-based solidity smart contracts dev project with open-zeppelin integration.
+A basic modern truffle-based solidity smart contracts dev project with open-zeppelin integration with solc compiler 0.8.6.
 
 Will save you 2 hours of your life when you want to get started with smart contracts dev.
 
