@@ -5,16 +5,19 @@ Will save you 2 hours of your life when you want to get started with smart contr
 You are welcome.
 
 ## Setup 
+1. Ensure you are running NodeJS v8.9.4 or later
 1. Install Truffle Suite: `npm install -g truffle`
 2. Install [Genanche](`https://www.trufflesuite.com/ganache`)
-3. Install deps: `yarn install`
+3. Install deps (openzeppelin contracts): `yarn install`
 
-## Compiling
+## Compile
 ```bash 
 truffle compile
 ```
 
-## Testing 
+## Test
+Make sure Genanche app is running.
+
 ```bash 
 truffle test
 ```
