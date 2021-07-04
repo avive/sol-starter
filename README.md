@@ -10,7 +10,7 @@ You are welcome.
 1. Ensure you are running NodeJS v8.9.4 or later
 1. Install Truffle Suite: `npm install -g truffle`
 2. Install [Genanche](https://www.trufflesuite.com/ganache)
-3. Install deps (openzeppelin contracts): `yarn install`
+3. Install deps (openzeppelin contracts): `yarn install` or `npm install`
 
 ## Compile
 ```bash 
